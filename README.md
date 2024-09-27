@@ -1,5 +1,5 @@
 # Welcome to my page! 
-My name is Daniel. I currently live in Germany and I am currently learning PHP and HTML. 
+My name is Daniel. I currently live in Germany and I am learning PHP and HTML. 
 
 ## Projects
 
