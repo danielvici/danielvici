@@ -3,6 +3,8 @@ My name is Daniel. I currently live in Germany and I am learning PHP, HTML, CSS,
 
 ## Projects
 
+### Active projects
+
 - [Vanilla Plus](https://github.com/danielvici/Vanilla-Plus) - A Minecraft Modpack
 - [Tools Website](https://github.com/danielvici/tool-website) - A website with useful tools ([tools.danielvici.com](https://tools.danielvici.com/))
 
