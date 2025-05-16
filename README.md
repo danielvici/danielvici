@@ -4,9 +4,14 @@ My name is Daniel. I currently live in Germany and I am learning PHP, HTML, CSS,
 ## Projects
 
 - [Vanilla Plus](https://github.com/danielvici/Vanilla-Plus) - A Minecraft Modpack
+- [Tools Website](https://github.com/danielvici/tool-website) - A website with useful tools ([tools.danielvici.com](https://tools.danielvici.com/))
+
+### Closed Projects
+
+These are projects that are no longer active, maintained or finished.
+
 - [ESP](https://github.com/danielvici/esp-projekt) - A Mini Social Media Platform (School project)
 - [Schule 24-25](https://github.com/danielvici/schule-24-25) - GitHub repo for subjects in which we program
-- [Tools Website](https://github.com/danielvici/tool-website) - A website with useful tools ([tools.danielvici.com](https://tools.danielvici.com/))
 
 ## I work with... 
 
