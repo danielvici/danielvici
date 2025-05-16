@@ -1,5 +1,7 @@
 # Welcome to my page! 
-My name is Daniel. I currently live in Germany and I am learning PHP, HTML, CSS, TypeScript, Vue. 
+Hey, I'm Daniel. I am a German hobby developer. I am currently learning TypeScript and JavaScript, but I have also worked with other programming languages, such as PHP, Python and C++. I love Tailwind CSS.
+
+I use Arch btw
 
 ## Projects
 
