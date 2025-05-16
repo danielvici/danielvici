@@ -13,7 +13,6 @@ My name is Daniel. I currently live in Germany and I am learning PHP, HTML, CSS,
 These are projects that are no longer active, maintained or finished.
 
 - [ESP](https://github.com/danielvici/esp-projekt) - A Mini Social Media Platform (School project)
-- [Schule 24-25](https://github.com/danielvici/schule-24-25) - GitHub repo for subjects in which we program
 
 ## I work with... 
 
